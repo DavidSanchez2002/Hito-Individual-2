@@ -1,0 +1,1 @@
+El gráfico dinámico esta en un archivo py ya que en el .ipynb no me aparecia nada pero en el py sí
